@@ -1,0 +1,56 @@
+body
+  {font-size: 25px;
+}
+/***full top section of the page with header ***/
+
+
+nav, h1 {
+  background-color: yellow;
+  height: 100px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+}
+
+section {
+  margin: 0 auto;
+  width: 60%;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 2em;
+}
+
+/*** first div elements on the list ***/
+
+.example, h3 {
+  padding-top: 30px;
+  text-align: center
+}
+
+h3 {
+  font-size: 1.3em;
+  }
+
+.element {
+  background-color: green;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+/*** last three  div elements on the list ***/
+.example, h4 {
+  padding-top:  30px;
+  text-align:  center
+}
+
+h4 {font-size: 1.3em;}
+
+.element2 {
+  background-color:  yellow;
+  height:  100px;
+  margin: 10px 0;
+  width:  100%;
+}
